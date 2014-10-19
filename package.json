@@ -1,0 +1,30 @@
+{
+  "name": "express-monogo-rs-session",
+  "version": "0.0.1",
+  "description": "Express 4 mongodb replica set session driver",
+  "main": "lib/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "nodeunit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dwnz/express-monogo-rs-session.git"
+  },
+  "keywords": [
+    "mongo",
+    "session",
+    "express",
+    "replicaset",
+    "set",
+    "replica"
+  ],
+  "author": "dwnz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dwnz/express-monogo-rs-session/issues"
+  },
+  "homepage": "https://github.com/dwnz/express-monogo-rs-session"
+}
