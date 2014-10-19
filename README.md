@@ -26,3 +26,12 @@ app.use(expressSession({
         name: 'name'
     }));
 ```
+
+The driver reads the connection string from
+
+```js
+config.Mongo.Session
+```
+
+
+Making this configurable is on my to do list.
