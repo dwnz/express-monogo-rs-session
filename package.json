@@ -28,7 +28,6 @@
   },
   "homepage": "https://github.com/dwnz/express-monogo-rs-session",
   "dependencies": {
-    "config": "^1.4.0",
     "mongoose": "^3.8.17"
   }
 }
