@@ -1,6 +1,6 @@
 {
   "name": "express-monogo-rs-session",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "description": "Express 4 mongodb replica set session driver",
   "main": "lib/index.js",
   "directories": {
